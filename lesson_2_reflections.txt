@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it creats git hiddin files 
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area containse all the changes that is ready to move into repo. 
