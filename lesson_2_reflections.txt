@@ -10,3 +10,12 @@ staging area containse all the changes that is ready to move into repo.
 How can you use the staging area to make sure you have one commit per logical change?
 
 by running diff and diff --staged to gourp all logaicly related commits togother.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you want to try a new feature or experment with somthing.
+
+How do the diagrams help you visualize the branch structure?
+
+it's give the ability to trace back commits in a particular branch and visualize the change history.
