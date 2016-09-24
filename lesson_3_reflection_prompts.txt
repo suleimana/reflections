@@ -6,22 +6,25 @@ if you want to make direct change commit it right away so other can see it.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    In case of having chnages that conflict with the latest updates in remote.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
+    Clonse: used when you want to get a copy of remote branch. all of your commits will be pushed it the same remote 
+    Forks: used to create new reop based in the anothar repo. The new forked repo will keep refrence to the original repo which is good for attributation. 
+    Branch: are the work that will eventualy be push the origanl remote branch
 
-    Fill in your answer here
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    to work on resolving the diffrences localy
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would manualy send a copy of my work and ask them compare and propoply explaine what I have changed.
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
