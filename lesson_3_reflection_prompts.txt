@@ -29,4 +29,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would make chnages in separate branch if I want to start a new feature, fix a bug , do a POC .  it keeps the te master brnach clean and always working. it give a chance to share my  code with others without comiting to master.  
